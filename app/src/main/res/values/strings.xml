@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Examen autobus</string>
+    <string name="numero_de_viajeros">Numero de viajeros</string>
+    <string name="precio_viaje">Precio viaje</string>
+    <string name="mostrar_ingresos">Mostrar ingresos</string>
+    <string name="autobus">autobus</string>
+    <string name="siguiente">Siguiente</string>
+</resources>
